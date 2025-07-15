@@ -1,2 +1,2 @@
 # Juego-Pelotitas
-trabajo en clases
+asignación de coding dojo
